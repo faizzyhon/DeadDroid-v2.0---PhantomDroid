@@ -1,0 +1,7 @@
+rich>=13.7.0
+anthropic>=0.25.0
+pymetasploit3>=1.0.3
+qrcode[pil]>=7.4.2
+Pillow>=10.0.0
+requests>=2.31.0
+pyTelegramBotAPI>=4.20.0
